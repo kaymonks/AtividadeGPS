@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyFoodLog</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome">Nome</string>
+    <string name="adicionar">Adicionar Novo Local</string>
+    <string name="visualizar">Meus Locais</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="campo_obrigatorio">Campo obrigatório</string>
+    <string name="buscar">Buscar</string>
+    <string name="cep">CEP</string>
+    <string name="nomeLugar">Nome do Lugar</string>
+    <string name="estado">Estado</string>
+    <string name="cidade">Cidade</string>
+    <string name="bairro">Bairro</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="numero">Número e Complemento</string>
+    <string name="salvar">Salvar</string>
+    <string name="descricao">Descrição</string>
+    <string name="entrada">Entrada</string>
+    <string name="pratoprincipal">Prato Principal</string>
+    <string name="sobremesa">Sobremesa</string>
+    <string name="lanche">Lanche</string>
+    <string name="foto">FOTO</string>
+    <string name="tipo">Tipo</string>
+    <string name="rating">Rating</string>
+</resources>

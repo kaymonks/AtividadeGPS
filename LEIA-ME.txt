@@ -1,0 +1,6 @@
+Professor, boa noite.
+
+Lembra daquele problema que eu te falei dele dar erro de Bluetooth toda vez que eu tento rodar o aplicativo apesar de não usar Bluetooth? Poisé, continua nisso. Eu tentei reinstalar o Android Studio do 0 mas nada resolveu. Tive que fazer as cegas denovo.
+
+Att,
+Lucas
